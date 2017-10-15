@@ -1,6 +1,5 @@
-
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 13 Oct 2017 16:53
+# Last modified: 15 Oct 2017 22:33
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 anime.reactor.cc
@@ -34,6 +33,7 @@
 0.0.0.0 oload.info
 0.0.0.0 podrltid.info
 0.0.0.0 ppoi.org
+0.0.0.0 pr0gramm.com
 0.0.0.0 projectpoi.com
 0.0.0.0 reasedoper.pw
 0.0.0.0 server.jsecoin.com
