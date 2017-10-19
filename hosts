@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 15 Oct 2017 22:33
+# Last modified: 19 Oct 2017 14:30
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 anime.reactor.cc
@@ -7,8 +7,11 @@
 0.0.0.0 cnhv.co
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
+0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
+0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive.com
+0.0.0.0 coinnebula.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 edgeno.de
 0.0.0.0 goodolddownloads.com
