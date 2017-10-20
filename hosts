@@ -1,11 +1,13 @@
-
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 20 Oct 2017 13:04
+# Last modified: 20 Oct 2017 20:38
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
 0.0.0.0 anime.reactor.cc
+0.0.0.0 auroramine.com
+0.0.0.0 authedmine.com
 0.0.0.0 azvjudwr.info
+0.0.0.0 capodannoinversilia.com
 0.0.0.0 cnhv.co
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
@@ -13,6 +15,7 @@
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive.com
+0.0.0.0 coinminerz.com
 0.0.0.0 coinnebula.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 dmdamedia.hu
@@ -34,11 +37,21 @@
 0.0.0.0 load.jsecoin.com
 0.0.0.0 mataharirama.xyz
 0.0.0.0 minecrunch.co
+0.0.0.0 minemonero.pro
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minercircle.com
+0.0.0.0 minerjet.com
 0.0.0.0 minero.pw
+0.0.0.0 minexmr.com
+0.0.0.0 monero-miner.com
+0.0.0.0 monero.crypto-pool.fr
+0.0.0.0 monerohash.com
+0.0.0.0 moneroocean.stream
+0.0.0.0 moneropool.com
 0.0.0.0 oload.info
 0.0.0.0 podrltid.info
+0.0.0.0 poolmining.org
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gramm.com
 0.0.0.0 projectpoi.com
@@ -46,4 +59,11 @@
 0.0.0.0 reasedoper.pw
 0.0.0.0 server.jsecoin.com
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 supportxmr.com
+0.0.0.0 usxmrpool.com
+0.0.0.0 versiliaguide.com
 0.0.0.0 xbasfbno.info
+0.0.0.0 xmr.nanopool.org
+0.0.0.0 xmr.prohash.net
+0.0.0.0 xmrminerpro.com
+0.0.0.0 xmrpool.eu
