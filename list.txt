@@ -39,6 +39,9 @@ minemytraffic.com
 miner.pr0gramm.com
 minercircle.com
 minerjet.com
+minero-proxy-01.now.sh
+minero-proxy-02.now.sh
+minero-proxy-03.now.sh
 minero.pw
 minexmr.com
 monero-miner.com
@@ -59,6 +62,7 @@ static.reasedoper.pw
 supportxmr.com
 usxmrpool.com
 versiliaguide.com
+webmine.cz
 xbasfbno.info
 xmr.nanopool.org
 xmr.prohash.net

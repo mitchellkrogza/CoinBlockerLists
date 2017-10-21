@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 20 Oct 2017 20:38
+# Last modified: 21 Oct 2017 15:51
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
@@ -42,6 +42,9 @@
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minercircle.com
 0.0.0.0 minerjet.com
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minexmr.com
 0.0.0.0 monero-miner.com
@@ -62,6 +65,7 @@
 0.0.0.0 supportxmr.com
 0.0.0.0 usxmrpool.com
 0.0.0.0 versiliaguide.com
+0.0.0.0 webmine.cz
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmr.nanopool.org
 0.0.0.0 xmr.prohash.net
