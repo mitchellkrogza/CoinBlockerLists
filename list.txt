@@ -2,6 +2,7 @@
 aeon.pools.e-scavo.net.ar
 afminer.com
 anime.reactor.cc
+api.inwemo.com
 auroramine.com
 authedmine.com
 authedwebmine.cz
@@ -9,6 +10,7 @@ azvjudwr.info
 capodannoinversilia.com
 cnhv.co
 coin-have.com
+coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive.com
 coinblind.com
 coinerra.com
@@ -17,6 +19,7 @@ coinhive.com
 coinminerz.com
 coinnebula.com
 crypto-loot.com
+deepc.cc
 dmdamedia.hu
 edgeno.de
 freedom.wemineltc.com
