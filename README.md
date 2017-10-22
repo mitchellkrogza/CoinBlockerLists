@@ -13,4 +13,5 @@ https://github.com/pyamsoft/update-hosts
 ### CoinBlockerLists is available in The Ultimate Hosts Blacklist
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources/_ZeroDot1/CoinBlockerLists
+
 Thanks to https://github.com/mitchellkrogza :)
