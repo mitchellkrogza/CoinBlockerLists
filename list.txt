@@ -1,8 +1,10 @@
 2giga.link
+aeon.pools.e-scavo.net.ar
 afminer.com
 anime.reactor.cc
 auroramine.com
 authedmine.com
+authedwebmine.cz
 azvjudwr.info
 capodannoinversilia.com
 cnhv.co
@@ -29,10 +31,12 @@ kdowqlpt.info
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
+kryptex.info
 listat.biz
 lmodr.biz
 load.jsecoin.com
 mataharirama.xyz
+mine.ar-net.info
 minecrunch.co
 minemonero.pro
 minemytraffic.com
@@ -50,6 +54,7 @@ monerohash.com
 moneroocean.stream
 moneropool.com
 oload.info
+p2p-multipool.greengaming.de
 podrltid.info
 poolmining.org
 ppoi.org
@@ -65,6 +70,7 @@ versiliaguide.com
 webmine.cz
 xbasfbno.info
 xmr.nanopool.org
+xmr.pools.e-scavo.net.ar
 xmr.prohash.net
 xmrminerpro.com
 xmrpool.eu
