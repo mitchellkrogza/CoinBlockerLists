@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 22 Oct 2017 16:21
+# Last modified: 22 Oct 2017 18:04
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 aeon.pools.e-scavo.net.ar
@@ -22,6 +22,7 @@
 0.0.0.0 crypto-loot.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 edgeno.de
+0.0.0.0 freedom.wemineltc.com
 0.0.0.0 goodolddownloads.com
 0.0.0.0 gus.host
 0.0.0.0 hashforcash.us
@@ -51,6 +52,7 @@
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minexmr.com
+0.0.0.0 mining.coin-hive.com
 0.0.0.0 monero-miner.com
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monerohash.com
@@ -66,6 +68,7 @@
 0.0.0.0 reactor.cc
 0.0.0.0 reasedoper.pw
 0.0.0.0 server.jsecoin.com
+0.0.0.0 sig.edgeno.de
 0.0.0.0 static.reasedoper.pw
 0.0.0.0 supportxmr.com
 0.0.0.0 usxmrpool.com

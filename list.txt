@@ -19,6 +19,7 @@ coinnebula.com
 crypto-loot.com
 dmdamedia.hu
 edgeno.de
+freedom.wemineltc.com
 goodolddownloads.com
 gus.host
 hashforcash.us
@@ -48,6 +49,7 @@ minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
 minexmr.com
+mining.coin-hive.com
 monero-miner.com
 monero.crypto-pool.fr
 monerohash.com
@@ -63,6 +65,7 @@ projectpoi.com
 reactor.cc
 reasedoper.pw
 server.jsecoin.com
+sig.edgeno.de
 static.reasedoper.pw
 supportxmr.com
 usxmrpool.com
