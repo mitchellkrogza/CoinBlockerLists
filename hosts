@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 22 Oct 2017 21:09
+# Last modified: 23 Oct 2017 13:38
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 aeon.pools.e-scavo.net.ar
@@ -29,6 +29,7 @@
 0.0.0.0 goodolddownloads.com
 0.0.0.0 gus.host
 0.0.0.0 hashforcash.us
+0.0.0.0 hit.gemius.pl
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
